@@ -2,7 +2,7 @@
 <html>
 
     <head>
-        <title>Home</title>
+        <title>Home1</title>
         <link rel="stylesheet" type="text/css" href="css/main.css">
         <link rel="stylesheet" type="text/css" href="css/index.css">
         <link rel="icon" type="image/svg" href="media/tab-icon.svg">
